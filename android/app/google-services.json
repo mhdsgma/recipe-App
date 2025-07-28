@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "138430702997",
+    "firebase_url": "https://recipe-app-d696e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recipe-app-d696e",
+    "storage_bucket": "recipe-app-d696e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138430702997:android:470d173f4525a4eeffc29c",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB74Pgq8kWTbyh5-pH1rHeCArbeijKRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138430702997:android:91c64bbf01149cd6ffc29c",
+        "android_client_info": {
+          "package_name": "team2.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB74Pgq8kWTbyh5-pH1rHeCArbeijKRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
